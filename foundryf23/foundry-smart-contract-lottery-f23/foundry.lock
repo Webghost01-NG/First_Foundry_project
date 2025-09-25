@@ -1,0 +1,23 @@
+{
+  "../foundry-fund-me-f23/lib/chainlink-brownie-contracts": {
+    "rev": "67887b84d3add02a25ef4145fc014e2f549509da"
+  },
+  "../foundry-fund-me-f23/lib/forge-std": {
+    "rev": "c7be2a3481f9e51230880bb0949072c7e3a4da82"
+  },
+  "../foundry-fund-me-f23/lib/foundry-devops": {
+    "rev": "efff097a87e70c3d15661c9f2a2daeae0b33d5d5"
+  },
+  "../foundry-simple-storage-f23/lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "../foundry-fund-me-f23/lib/chainlink": {
+    "rev": "e0bebc32e0633078de1debe65537c7e0934b68a3"
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.10.0",
+      "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+    }
+  }
+}
