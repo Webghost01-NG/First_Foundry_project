@@ -1,0 +1,9 @@
+Unable to resolve imports:
+      "lib/chainlink-brownie-contracts/contracts/src/v0.8/mocks/VRFCoordinatorV2_5Mock.sol" in "/home/web-ghost/foundry/foundryf23/foundry-smart-contract-lottery-f23/script/interactions.s.sol"
+      "lib/chainlink-brownie-contracts/contracts/src/v0.8/mocks/VRFCoordinatorV2_5Mock.sol" in "/home/web-ghost/foundry/foundryf23/foundry-smart-contract-lottery-f23/script/HelperConfig.s.sol"
+with remappings:
+      @chainlink/contracts/=/home/web-ghost/foundry/foundryf23/foundry-smart-contract-lottery-f23/lib/chainlink-brownie-contracts/contracts/
+      chainlink-brownie-contracts/=/home/web-ghost/foundry/foundryf23/foundry-smart-contract-lottery-f23/lib/chainlink-brownie-contracts/contracts/src/v0.6/vendor/@arbitrum/nitro-contracts/src/
+      forge-std/=/home/web-ghost/foundry/foundryf23/foundry-smart-contract-lottery-f23/lib/forge-std/src/
+Compiling 33 files with Solc 0.8.19
+Solc 0.8.19 finished in 533.79ms
